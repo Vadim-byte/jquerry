@@ -1,0 +1,5 @@
+$(function(){
+alert($('li').text());
+
+})
+; 
